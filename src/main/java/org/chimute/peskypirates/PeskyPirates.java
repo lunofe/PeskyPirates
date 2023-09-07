@@ -17,7 +17,7 @@ public class PeskyPirates {
         String workingDirectory = System.getProperty("user.dir");
         File file = new File(workingDirectory + "/TLauncherAdditional.json");
         if (file.exists()) {
-            throw new RuntimeException("Buy a legitimate copy of Minecraft!");
+            System.exit(0);
         }
     }
 }
