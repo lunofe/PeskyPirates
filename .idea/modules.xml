@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/PeskyPirates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PeskyPirates.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/PeskyPirates.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PeskyPirates.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.chimute.PeskyPirates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.chimute.PeskyPirates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.chimute.PeskyPirates.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.chimute.PeskyPirates.test.iml" />
     </modules>
   </component>
 </project>
